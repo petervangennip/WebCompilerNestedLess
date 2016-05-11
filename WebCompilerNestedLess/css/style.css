@@ -1,0 +1,13 @@
+﻿body {
+  font-family: Arial, Helvetica, "Lucida Grande", sans-serif;
+  color: #000;
+}
+@media only screen and (max-width: 768px) {
+  .test {
+    height: 610px;
+    clear: both;
+    overflow: auto;
+    overflow-x: hidden;
+    background: #f0f0f0;
+  }
+}
